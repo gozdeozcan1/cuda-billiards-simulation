@@ -1,0 +1,4 @@
+duration_s,serial_steps_per_s,cuda_steps_per_s,throughput_ratio,serial_rendering_s,cuda_rendering_s,rendering_ratio,source
+100,222.089,543.904,2.45,92.209,50.481,1.83,provided report; not rerun
+300,191.333,1517.945,7.93,243.059,26.928,9.03,provided report; not rerun
+720,190.71,1475.836,7.74,114.591,77.87,1.47,provided report; not rerun
